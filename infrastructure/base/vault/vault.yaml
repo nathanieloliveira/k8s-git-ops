@@ -7,6 +7,7 @@ metadata:
 spec:
   chart:
     spec:
+      version: "0.20.0"
       chart: vault
       reconcileStrategy: ChartVersion
       sourceRef:
